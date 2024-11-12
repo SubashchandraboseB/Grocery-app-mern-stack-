@@ -1,4 +1,4 @@
-const contactsData = require('./contacts');
+ const contactsData = require('./contacts');
 const credentialsData = require('./credentials');
 const productsData = require('./products');
 const subscriptionsData = require('./subscriptions');
