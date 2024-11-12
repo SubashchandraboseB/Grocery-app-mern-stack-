@@ -9,7 +9,7 @@ const usersCardData = require('./usersCard');
 const usersCartData = require('./usersCart');
 const usersWalletData = require('./usersWallet');
 
-let dataMethod = (app) => {
+ let dataMethod = (app) => {
     app.use("/contacts-us", contactsData);
     app.use("/credentials", credentialsData);
     app.use("/products", productsData);
