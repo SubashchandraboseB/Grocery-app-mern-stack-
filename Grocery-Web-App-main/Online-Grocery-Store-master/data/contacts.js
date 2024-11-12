@@ -1,7 +1,3 @@
-/* Contacts Collection *
- * Contacts Controllers *
- * Data Access Object *
- * Contacts Controllers for DAO actions *
 
  * Controllers Index: 
         ====================================================================================
